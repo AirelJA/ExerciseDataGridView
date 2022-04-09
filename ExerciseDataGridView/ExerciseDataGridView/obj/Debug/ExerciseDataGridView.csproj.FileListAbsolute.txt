@@ -1,0 +1,10 @@
+C:\Users\T.U.F  GAMING\Documents\C#\ExerciseDataGridView\ExerciseDataGridView\bin\Debug\ExerciseDataGridView.exe.config
+C:\Users\T.U.F  GAMING\Documents\C#\ExerciseDataGridView\ExerciseDataGridView\bin\Debug\ExerciseDataGridView.exe
+C:\Users\T.U.F  GAMING\Documents\C#\ExerciseDataGridView\ExerciseDataGridView\bin\Debug\ExerciseDataGridView.pdb
+C:\Users\T.U.F  GAMING\Documents\C#\ExerciseDataGridView\ExerciseDataGridView\obj\Debug\ExerciseDataGridView.csprojAssemblyReference.cache
+C:\Users\T.U.F  GAMING\Documents\C#\ExerciseDataGridView\ExerciseDataGridView\obj\Debug\ExerciseDataGridView.Form1.resources
+C:\Users\T.U.F  GAMING\Documents\C#\ExerciseDataGridView\ExerciseDataGridView\obj\Debug\ExerciseDataGridView.Properties.Resources.resources
+C:\Users\T.U.F  GAMING\Documents\C#\ExerciseDataGridView\ExerciseDataGridView\obj\Debug\ExerciseDataGridView.csproj.GenerateResource.cache
+C:\Users\T.U.F  GAMING\Documents\C#\ExerciseDataGridView\ExerciseDataGridView\obj\Debug\ExerciseDataGridView.csproj.CoreCompileInputs.cache
+C:\Users\T.U.F  GAMING\Documents\C#\ExerciseDataGridView\ExerciseDataGridView\obj\Debug\ExerciseDataGridView.exe
+C:\Users\T.U.F  GAMING\Documents\C#\ExerciseDataGridView\ExerciseDataGridView\obj\Debug\ExerciseDataGridView.pdb
